@@ -24,12 +24,12 @@ exit 0
 fi
 clear
 apt install jq curl -y
-###DOM#AIN=zaky-pedia.asia
+###DOM#AIN=installer.my.id
 DOMAIN=slxray.cf
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c6)
-SUB_DOMAIN=${sub}.aixxy.cf
-CF_ID=zkendev@gmail.com
-CF_KEY=a030293f2cf1dc9dcb557dce3e676dae
+SUB_DOMAIN=${sub}.slxray.cf
+CF_ID=slinfinity69@gmail.com
+CF_KEY=3dcb550a77cb0a64dacf205243e3ac550f9db
 ##SUB_DOMAIN=${sub}.installer.my.id
 ##CF_ID=senowahyu62@gmail.com
 ##CF_KEY=84570683099becbeb0f04d8086ce6f309c56c
